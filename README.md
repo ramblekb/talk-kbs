@@ -1,5 +1,5 @@
-# Firebase SDK for Cloud Functions CHAT APP
-
+# CHAT APP
+Firebase SDK for Cloud Functions 
 You have used the Firebase SDK for Cloud Functions and added server-side components to a chat app.
 
 Covered: 
