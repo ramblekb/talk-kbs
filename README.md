@@ -1,5 +1,9 @@
 # CHAT APP
+
 Firebase SDK for Cloud Functions 
+
+deployed & hosted with firebase https://talk-kbs.firebaseapp.com/
+
 You have used the Firebase SDK for Cloud Functions and added server-side components to a chat app.
 
 Covered: 
